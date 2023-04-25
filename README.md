@@ -15,19 +15,19 @@ step1:
 step2:
         Then get the Telegram token from BotFather if you dont know how to create a bot from botfather(Telegram Bot Api :- To get your bot api
 
-                                                                                                        Open the Telegram app on your device.
+         Open the Telegram app on your device.
 
-                                                                                                        Search for the BotFather user. Or open https://telegram.me/BotFather
+         Search for the BotFather user. Or open https://telegram.me/BotFather
 
-                                                                                                        Type /newbot in the chat window and hit enter.
+         Type /newbot in the chat window and hit enter.
 
-                                                                                                        Enter a name for your bot.
+         Enter a name for your bot.
 
-                                                                                                        Enter a username for your bot.
+         Enter a username for your bot.
 
-                                                                                                        Copy the access token provided by the BotFather.
+         Copy the access token provided by the BotFather.
 
-                                                                                                        Use the access token to access the HTTP API.)
+         Use the access token to access the HTTP API.)
         
 step3:
         Open replit.com and create account and then click on pluse + Icons. Click on import from GitHub. Now paste this git url https://github.com/devarajan-here/Telegram-chatgpt-bot.git
